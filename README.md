@@ -17,10 +17,8 @@ If you are done with setting, run the project with
 npm start
 ```
 
-## Author
-Twitter: [@RambautETH](https://x.com/RambautETH)
-
-Telegram: [@DaveVasu](https://t.me/davevasu)
+## Contact
+Telegram: [@shiny0103](https://t.me/shiny0103)
 
 You can always find me here, for help, or for other projects.
 
